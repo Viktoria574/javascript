@@ -1,5 +1,5 @@
 # Airbnb JavaScript Style Guide()
-# Это пособие по javascript {
+# Это пособие по javascript{
 
 *A mostly reasonable approach to JavaScript*
 
@@ -60,7 +60,7 @@ Other Style Guides
   1. [Contributors](#contributors)
   1. [License](#license)
   1. [Amendments](#amendments)
-
+##Types of objects files
 ## Types
 
   <a name="types--primitives"></a><a name="1.1"></a>
