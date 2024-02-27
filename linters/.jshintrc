@@ -6,7 +6,7 @@
 
   // Define globals exposed by modern browsers.
   "browser": true,
-
+//вау
   // Define globals exposed by jQuery.
   "jquery": true,
 
