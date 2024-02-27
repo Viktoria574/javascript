@@ -1,5 +1,6 @@
-# Airbnb JavaScript Style Guide()
-# Это пособие по javascript{
+# Airbnb JavaScript Style Guide() {
+# Это инструкция по работе с javascript
+
 *A mostly reasonable approach to JavaScript*
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
@@ -60,7 +61,7 @@ Other Style Guides
   1. [License](#license)
   1. [Amendments](#amendments)
 
-## Types of objects files
+## Types of objects
 
   <a name="types--primitives"></a><a name="1.1"></a>
   - [1.1](#types--primitives) **Primitives**: When you access a primitive type you work directly on its value.
