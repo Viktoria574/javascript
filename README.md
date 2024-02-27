@@ -18,7 +18,7 @@ Other Style Guides
   - [CSS-in-JavaScript](css-in-javascript/)
   - [CSS & Sass](https://github.com/airbnb/css)
   - [Ruby](https://github.com/airbnb/ruby)
-
+##(типы контекстов)
 ## Table of Contents
 
   1. [Types](#types)
